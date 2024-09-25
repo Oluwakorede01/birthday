@@ -90,8 +90,9 @@ h2{
 }
 
 
-@media(max-width:600px){
+@media (width <=500px) {
   
+
   .container{
     display: flex;
     justify-content: space-between;
