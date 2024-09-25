@@ -21,6 +21,7 @@ body{
   justify-content: space-between;
   padding-left: 50px;
   padding-right: 50px;
+  margin-bottom: 20px;
  
 }
 #btn{
@@ -54,6 +55,8 @@ body{
   margin-top: 5px;
   
   border-radius: 10px;
+  height: 100vh;
+  width: 120vw;
   
 }
 .img-text{
@@ -70,6 +73,7 @@ p{
   padding-top: 5px;
   padding-bottom: 5px;
   box-shadow: 3px 7px  3px brown;
+  
   
 
 }
@@ -96,6 +100,8 @@ h2{
     padding-left: 50px;
     padding-right: 50px;
     flex-direction: column;
+    margin-bottom: 20px;
+    
     
   }
 
@@ -105,6 +111,8 @@ h2{
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
 
   }
 
