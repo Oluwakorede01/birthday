@@ -21,25 +21,23 @@ body{
 .container{
   display: flex;
   justify-content: space-between;
-  padding-left: 50px;
-  padding-right: 50px;
-  margin-bottom: 20px;
+  align-items: center;
+  padding-bottom: 40px;
+  
  
 }
 #btn{
   width: 350px;
   height: 50px;
-  margin-top: 20px;
+  margin-top: 0px;
   border: none;
   border-radius: 30px;
-  padding: 10px;
   color:white;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bolder;
   background-color: transparent;
   font-family:KGCHhasingCars;
-  width: 300px;
-  height: 300px;
+margin-top: 10px;
 
 }
 
@@ -62,6 +60,7 @@ body{
 }
 .img-text{
   text-align: center;
+  margin-bottom: 0;
 
 }
 
@@ -99,10 +98,10 @@ h2{
   .container{
     display: flex;
     justify-content: space-between;
-    padding-left: 50px;
-    padding-right: 50px;
+  align-items: center;
     flex-direction: column;
     margin-bottom: 20px;
+    padding-bottom: 20px;
     
     
   }
@@ -122,17 +121,17 @@ h2{
 
   .img{
     box-shadow: 7px 10px 5px white; 
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     margin-top: 5px;
     width: 120vw;
     border-radius: 10px;
-  
   }
+
+  
 
   #btn{
     
     color:red;
-    margin-left: 100px;
     font: 400;
   }
 
